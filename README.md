@@ -4,6 +4,7 @@ Dinamik bir şekilde yapılan basit bir broadcast receiver örneği
 
 UYGULAMALAR ARASI GÜVENLİK.
 1.uygulama
+
 public class MainActivity extends AppCompatActivity {
  
     @Override
@@ -51,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 
 2.UYGULAMA
+
 public class MyReceiver extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {
