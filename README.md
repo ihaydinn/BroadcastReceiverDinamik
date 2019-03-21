@@ -1,6 +1,6 @@
 # BroadcastReceiverDinamik
 
-Dinamik bir şekilde yapılan basit bir broadcast receiver örneği
+Dinamik bir şekilde yapılan basit bir broadcast receiver örneği, uygulamalar arası iletişim vs.
 
 UYGULAMALAR ARASI GÜVENLİK.
 1.uygulama
